@@ -1,2 +1,2 @@
 nginx
-ghcr.io/martialbe/one-api
+ghcr.io/open-webui/open-webui:main
